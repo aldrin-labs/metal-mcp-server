@@ -2,6 +2,8 @@
 
 An MCP server providing Metal Framework documentation search and code generation capabilities.
 
+<a href="https://glama.ai/mcp/servers/1qadqxjnu6"><img width="380" height="200" src="https://glama.ai/mcp/servers/1qadqxjnu6/badge" alt="Metal Server MCP server" /></a>
+
 ## One-Line Installation
 
 ```bash
