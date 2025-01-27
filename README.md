@@ -2,7 +2,19 @@
 
 An MCP server providing Metal Framework documentation search and code generation capabilities.
 
+[![smithery badge](https://smithery.ai/badge/metal-mcp-server)](https://smithery.ai/server/metal-mcp-server)
+
 ## One-Line Installation
+
+### Installing via Smithery
+
+To install Metal Framework for Claude Desktop automatically via [Smithery](https://smithery.ai/server/metal-mcp-server):
+
+```bash
+npx -y @smithery/cli install metal-mcp-server --client claude
+```
+
+### Installing manually
 
 ```bash
 npx @modelcontextprotocol/create-server metal-mcp && cd metal-mcp && npm install && npm run build
