@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aldrin-labs-metal-mcp-server-badge.png)](https://mseep.ai/app/aldrin-labs-metal-mcp-server)
+
 # Metal MCP Server
 
 An MCP server providing Metal Framework documentation search and code generation capabilities.
